@@ -1,0 +1,23 @@
+# Dossiers Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers modèle / dataset (optionnel si tu ne veux pas tout pousser)
+models/
+dataset/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
